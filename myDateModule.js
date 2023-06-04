@@ -1,0 +1,3 @@
+exports.CurrentDateTime= ()=>{
+    return Date()
+  }
